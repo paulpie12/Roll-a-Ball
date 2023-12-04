@@ -1,0 +1,540 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1701645654926547, "dur":1952, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645654928501, "dur":36, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1701645654928547, "dur":11, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1701645654928558, "dur":592, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1701645654929177, "dur":563, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645654929740, "dur":0, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655007998, "dur":255, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008253, "dur":18, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008271, "dur":43, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008314, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008319, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008321, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008327, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008329, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008333, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008334, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008337, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008339, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008342, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008344, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008346, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008348, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008351, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008353, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008356, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008358, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008361, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008362, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008366, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008367, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008370, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008372, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008375, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008377, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008379, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008381, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008384, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008386, "dur":2, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008389, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008404, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655008420, "dur":3892, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1701645654929754, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654929754, "dur":4313, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654934072, "dur":1322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1701645654935397, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654937374, "dur":3205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1701645654940685, "dur":6771, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1701645654947458, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654947463, "dur":1589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1701645654949154, "dur":338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654949494, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654949499, "dur":2934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654952447, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654952704, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654952709, "dur":2731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654955453, "dur":380, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654955836, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654955840, "dur":3429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654959292, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654959527, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654959531, "dur":4441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654964006, "dur":634, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654964670, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654964676, "dur":3198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654967889, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654968106, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654968111, "dur":2580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654970709, "dur":465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654971177, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654971182, "dur":11569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1701645654982770, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1701645654982784, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1701645654982824, "dur":2461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1701645654985298, "dur":22700, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654929751, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654929751, "dur":4317, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654934072, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1701645654934271, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654937371, "dur":3273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1701645654940770, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1701645654940910, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654941219, "dur":5788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1701645654947088, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654947346, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654947376, "dur":2473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654949861, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654950099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654950104, "dur":3115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654953236, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654953469, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654953473, "dur":2549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654956037, "dur":329, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654956368, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654956374, "dur":3253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654959641, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654959865, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654959870, "dur":4824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654964716, "dur":975, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654965694, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654965707, "dur":3381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654969102, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654969313, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654969318, "dur":5148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654974486, "dur":458, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654974947, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654974952, "dur":8581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1701645654983549, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1701645654983564, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1701645654983568, "dur":2240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1701645654985820, "dur":22184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654929746, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654929746, "dur":4316, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654934072, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1701645654934076, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654935385, "dur":1239, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1701645654936627, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1701645654936646, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654936887, "dur":3532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1701645654940421, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1701645654940576, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654940583, "dur":2169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1701645654942830, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654943048, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654943074, "dur":3883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654946971, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654947266, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654947272, "dur":2296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654949584, "dur":278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654949865, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654949870, "dur":2666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654952549, "dur":382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654952934, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654952939, "dur":2886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654955838, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654956056, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654956061, "dur":3053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654959126, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654959362, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654959367, "dur":3081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654962470, "dur":735, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654963208, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654963213, "dur":3350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654966576, "dur":249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654966827, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654966832, "dur":2722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654969566, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654969844, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654969848, "dur":5672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1701645654975540, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1701645654975559, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654975565, "dur":2053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1701645654977630, "dur":4350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1701645654981983, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1701645654981987, "dur":3103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1701645654985103, "dur":22894, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654929806, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654929807, "dur":4262, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654934071, "dur":320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1701645654934394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654938464, "dur":2424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1701645654941046, "dur":249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654941298, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654941633, "dur":3631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654945277, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654945518, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654945523, "dur":2999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654948536, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654948782, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654948787, "dur":3169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654952025, "dur":681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654952709, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654952714, "dur":3527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654956255, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654956470, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654956475, "dur":3148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654959635, "dur":256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654959894, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654959925, "dur":4494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654964433, "dur":891, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654965328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654965334, "dur":3008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654968355, "dur":324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654968681, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654968686, "dur":2152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654970852, "dur":263, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654971117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654971122, "dur":11712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1701645654982857, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1701645654982881, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1701645654982886, "dur":3046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1701645654985941, "dur":22049, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654929830, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654929831, "dur":4243, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654934075, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1701645654934340, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654937307, "dur":3532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1701645654940923, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654941147, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654941526, "dur":3367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654944915, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654945136, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654945142, "dur":2471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654947626, "dur":1714, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654949343, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654949348, "dur":2786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654952148, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654952379, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654952384, "dur":3084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654955483, "dur":264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654955750, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654955755, "dur":3138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654958906, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654959133, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654959139, "dur":3306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654962461, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654962675, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654962681, "dur":3851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654966546, "dur":3690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654970239, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654970244, "dur":12532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1701645654982790, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1701645654982833, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1701645654982837, "dur":2464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1701645654985314, "dur":22689, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701645654929883, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701645654929884, "dur":4195, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701645654934080, "dur":936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1701645654935037, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701645654936960, "dur":3485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1701645654940602, "dur":20531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701645654961136, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701645654961158, "dur":5905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701645654967317, "dur":1320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701645654968640, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701645654968645, "dur":6030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701645654974688, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701645654974901, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1701645654974909, "dur":9780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1701645654984702, "dur":23284, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654929911, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654929911, "dur":4161, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654934072, "dur":1175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1701645654935249, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654937288, "dur":3138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1701645654940519, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1701645654940740, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654940746, "dur":2095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1701645654942931, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654943175, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654943180, "dur":3869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654947067, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654947300, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654947305, "dur":2520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654949840, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654950058, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654950064, "dur":3134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654953210, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654953467, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654953472, "dur":2554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654956039, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654956331, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654956337, "dur":3112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654959462, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654959801, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654959806, "dur":4370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654964195, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654964534, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654964542, "dur":2340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654966897, "dur":601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654967503, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654967508, "dur":3063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654970589, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654970928, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654970933, "dur":11824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1701645654982771, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1701645654982787, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1701645654982826, "dur":2409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1701645654985250, "dur":22746, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654930011, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654930011, "dur":4055, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654934071, "dur":1528, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1701645654935602, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654937363, "dur":3100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1701645654940550, "dur":5518, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654946096, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654946389, "dur":1416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654947898, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654948141, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654948146, "dur":3555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654951721, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654951953, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654951984, "dur":3507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654955504, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654955764, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654955769, "dur":3269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654959052, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654959328, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654959333, "dur":3074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654962421, "dur":328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654962752, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654962756, "dur":3728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654966502, "dur":358, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654966863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654966868, "dur":2758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654969641, "dur":805, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654970448, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654970453, "dur":5718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1701645654976188, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1701645654976207, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654976212, "dur":1719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1701645654977942, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1701645654977955, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1701645654977960, "dur":6533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1701645654984509, "dur":23478, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701645654930037, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701645654930038, "dur":4027, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701645654934072, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1701645654934411, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701645654938955, "dur":1641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1701645654940687, "dur":31392, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball.exe" }}
+,{ "pid":12345, "tid":9, "ts":1701645654972081, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701645654972085, "dur":2662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball.exe" }}
+,{ "pid":12345, "tid":9, "ts":1701645654974761, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701645654975021, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701645654975753, "dur":1392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":9, "ts":1701645654977157, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":9, "ts":1701645654977347, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1701645654977353, "dur":6726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":9, "ts":1701645654984092, "dur":23900, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654930061, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654930061, "dur":4003, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654934071, "dur":711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1701645654934785, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654942048, "dur":1125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1701645654943267, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654943487, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654943493, "dur":3111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654946627, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654946884, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654946889, "dur":2267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654949168, "dur":276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654949447, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654949452, "dur":4139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654953618, "dur":581, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654954202, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654954207, "dur":3732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654957950, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654958162, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654958167, "dur":4246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654962430, "dur":592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654963025, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654963028, "dur":3230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654966270, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654966484, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654966490, "dur":2694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654969197, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654969517, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654969522, "dur":5859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1701645654975411, "dur":441, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1701645654975855, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654975876, "dur":7928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1701645654983818, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/boot.config" }}
+,{ "pid":12345, "tid":10, "ts":1701645654984048, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1701645654984053, "dur":1789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/boot.config" }}
+,{ "pid":12345, "tid":10, "ts":1701645654985855, "dur":22138, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654930081, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654930081, "dur":4006, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654934088, "dur":473, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1701645654934563, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654939215, "dur":1844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1701645654941132, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654941441, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654941874, "dur":3686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654945574, "dur":699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654946276, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654946289, "dur":2713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654949016, "dur":454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654949473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654949478, "dur":3038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654952529, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654952837, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654952842, "dur":3187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654956042, "dur":321, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654956366, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654956371, "dur":3373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654959757, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654960001, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654960006, "dur":5216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654965280, "dur":2699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654967982, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654967990, "dur":2545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654970546, "dur":1393, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654971941, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654971946, "dur":11664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1701645654983623, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1701645654983637, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1701645654983641, "dur":2036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1701645654985688, "dur":22312, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654930136, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654930136, "dur":3935, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654934071, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1701645654934253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654937243, "dur":3604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1701645654940931, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654941182, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654941553, "dur":3549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654945115, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654945332, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654945337, "dur":3896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654949245, "dur":291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654949539, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654949544, "dur":3221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654952777, "dur":288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654953089, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654953094, "dur":2643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654955751, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654956023, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654956028, "dur":3382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654959426, "dur":1374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654960803, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654960807, "dur":5467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654966288, "dur":523, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654966814, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654966818, "dur":2818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654969649, "dur":3013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654972664, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1701645654972669, "dur":11204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1701645654983886, "dur":24113, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654930162, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654930162, "dur":3926, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654934088, "dur":1527, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1701645654935618, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654937377, "dur":3061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1701645654940529, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1701645654940701, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654940732, "dur":2689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1701645654943494, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654943737, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654943742, "dur":3421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654947178, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654947452, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654947457, "dur":2615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654950084, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654950300, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654950305, "dur":2889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654953206, "dur":400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654953609, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654953614, "dur":3057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654956687, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654956885, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654956915, "dur":3036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654959964, "dur":1417, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654961384, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654961395, "dur":4323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654965732, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654965955, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654965960, "dur":2421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654968393, "dur":301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654968697, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654968702, "dur":2255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654970970, "dur":5011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654975985, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1701645654975991, "dur":9052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":13, "ts":1701645654985058, "dur":22937, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654930221, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654930221, "dur":3851, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654934073, "dur":313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1701645654934389, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654937610, "dur":3323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1701645654941024, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654941257, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654941593, "dur":3430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654945037, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654945253, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654945257, "dur":2364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654947632, "dur":1991, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654949626, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654949631, "dur":4358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654954002, "dur":348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654954353, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654954357, "dur":2746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654957121, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654957350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654957355, "dur":2913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654960283, "dur":775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654961061, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654961066, "dur":5071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654966150, "dur":1325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654967478, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654967505, "dur":2872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654970393, "dur":832, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654971228, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1701645654971232, "dur":12629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1701645654983875, "dur":24113, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1701645654930249, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1701645654930249, "dur":3821, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1701645654934071, "dur":1536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1701645654935610, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1701645654937324, "dur":3260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1701645654940666, "dur":58786, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1701645654999455, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1701645654999460, "dur":8448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1701645655007967, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":15, "ts":1701645655007969, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654930309, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654930310, "dur":3756, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654934072, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1701645654934317, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654937266, "dur":3427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1701645654940823, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654941092, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654941494, "dur":3473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654944983, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654945217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654945223, "dur":2497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654947733, "dur":309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654948045, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654948050, "dur":3499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654951563, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654951797, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654951802, "dur":2184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654954000, "dur":312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654954339, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654954344, "dur":2725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654957082, "dur":1546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654958631, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654958637, "dur":3733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654962384, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654962693, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654962698, "dur":3924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654966634, "dur":450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654967087, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654967092, "dur":3036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654970141, "dur":2605, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654972748, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1701645654972753, "dur":11314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Desktop/Unity Assignment Karting or FPS Microgame/Roll-a-Ball/Roll-a-Ball_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":16, "ts":1701645654984347, "dur":23642, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1701645655015557, "dur":1648, "ph":"X", "name": "ProfilerWriteOutput" }
+,
